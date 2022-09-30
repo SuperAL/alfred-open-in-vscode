@@ -9,6 +9,9 @@ Alfred 4 workflow to open in VSCode.
 
 ![Screenshot](./assets/alfred-open-in-vscode.png)
 
+## Updates
+- 🎉 2022/9/30 Update script so that it can bring already opened project to front ([pull request](https://github.com/SuperAL/alfred-open-in-vscode/pull/1))
+
 ## Feature
 
 - Search projects and open in VSCode.
